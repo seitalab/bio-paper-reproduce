@@ -1,0 +1,13 @@
+# Project-local Python environment
+.venv/
+
+# Python and Jupyter runtime files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Downloaded GEO matrices and other local datasets
+datasets/
+data/
+tmp/
+.vscode/

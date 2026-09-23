@@ -1,0 +1,22 @@
+name: paper-reproduce
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - scanpy=1.11.5
+  - anndata=0.11.4
+  - numpy=2.2.6
+  - pandas=2.3.3
+  - matplotlib=3.10.9
+  - seaborn=0.13.2
+  - statsmodels
+  - python-igraph
+  - leidenalg
+  - r-base=4.4
+  - r-seurat=5.5.1
+  - r-irkernel
+  - r-matrix
+  - r-ggplot2
+  - r-patchwork
+  - jupyterlab
+  - ipykernel
