@@ -32,3 +32,5 @@ python scripts/ifn-neutrophil-dataset-download.py
 - **Paper:** Lebratti et al. (2021), [A sustained type I IFN-neutrophil-IL-18 axis drives pathology during mucosal viral infection](https://doi.org/10.7554/eLife.65762), *eLife*.
 - **Dataset:** The authors' single-cell RNA-seq data, available through GEO as [GSE161336](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE161336).
 - **Gene set:** [MSigDB Hallmark IFN-alpha response](https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/HALLMARK_INTERFERON_ALPHA_RESPONSE).
+
+Paper figures: [`r-seurat/`](figures/ifn-neutrophil/r-seurat/) and [`py-scanpy/`](figures/ifn-neutrophil/py-scanpy/).
