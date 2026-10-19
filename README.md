@@ -19,7 +19,7 @@ Open a notebook in `notebooks/` and select the environment's Python kernel. Down
 ### A sustained type I IFN-neutrophil-IL-18 axis drives pathology during mucosal viral infection
 
 - **Notebook:** [ifn-neutrophil-reproduce.ipynb](notebooks/ifn-neutrophil-reproduce.ipynb)
-- **Writeup:** [Reproduction notes](docs/type-I-IFN-neutrophil-IL-18-reproduce-writeup.md)
+- **Writeup:** [Reproduction notes](docs/type-I-IFN-neutrophil-IL-18-reproduce-writeup.md) · [PDF](docs/type-I-IFN-neutrophil-IL-18-reproduce-writeup.pdf)
 
 Download the data into `data/ifn-neutrophil/` from the project root:
 
